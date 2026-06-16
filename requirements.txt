@@ -1,0 +1,15 @@
+# Core deep learning
+torch
+torchvision
+
+# Data handling
+numpy
+pandas
+Pillow
+
+# Plotting / notebook display
+matplotlib
+ipython
+
+# Optional: useful for metrics and analysis
+scikit-learn
