@@ -1,0 +1,5 @@
+Seed,Method,ImageNet Old Task Accuracy (%),CUB Official Test Accuracy (%),Best CUB Validation Accuracy (%),ImageNet Difference from Baseline (%)
+—,Baseline ImageNet,62.890625,,,0.0
+42,Fine-Tuning,53.41796875,45.52985847428374,45.0,-9.47265625
+42,Feature Extraction,62.890625,42.02623403520884,42.125,0.0
+42,LwF,59.4921875,45.40904383845357,45.125,-3.3984375

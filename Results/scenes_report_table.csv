@@ -1,0 +1,5 @@
+Method,ImageNet Old Task Accuracy (%),Scenes Official Test Accuracy (%),ImageNet Difference from Baseline (%)
+Baseline ImageNet,62.89 ± 0.00,—,0.00 ± 0.00
+Fine-Tuning,48.69 ± 0.00,50.82 ± 0.00,-14.20 ± 0.00
+Feature Extraction,62.89 ± 0.00,55.00 ± 0.00,0.00 ± 0.00
+LwF,59.82 ± 0.00,56.27 ± 0.00,-3.07 ± 0.00

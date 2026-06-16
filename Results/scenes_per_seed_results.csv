@@ -1,0 +1,4 @@
+Seed,Method,ImageNet Old Task Accuracy (%),Scenes Official Test Accuracy (%),Best Scenes Validation Accuracy (%),ImageNet Difference from Baseline (%)
+42,Fine-Tuning,48.69140625,50.82089552238806,54.1044776119403,-14.19921875
+42,Feature Extraction,62.890625,55.0,57.21393034825871,0.0
+42,LwF,59.82421875,56.26865671641791,56.96517412935324,-3.06640625

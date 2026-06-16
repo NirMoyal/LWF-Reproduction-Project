@@ -1,0 +1,5 @@
+Method,ImageNet_Old_Mean,ImageNet_Old_Std,Scenes_Test_Mean,Scenes_Test_Std,ImageNet_Difference_Mean,ImageNet_Difference_Std,Best_Validation_Mean,Best_Validation_Std
+Baseline ImageNet,62.890625,0.0,,,0.0,0.0,,
+Fine-Tuning,48.69140625,0.0,50.82089552238806,0.0,-14.19921875,0.0,54.1044776119403,0.0
+Feature Extraction,62.890625,0.0,55.0,0.0,0.0,0.0,57.21393034825871,0.0
+LwF,59.82421875,0.0,56.26865671641791,0.0,-3.06640625,0.0,56.96517412935324,0.0
