@@ -80,7 +80,7 @@ LWF reproduction project/
 │
 └── Results/
     ├── Imagenet forgetting table.pdf
-    ├── results comprasion.pdf
+    ├── results comparison.pdf
     └── Results table.pdf
 ```
 
